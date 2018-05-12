@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32876'
     url: http://www.gutenberg.org/2009/agents/32876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31747#Sound-Mind--13-Or-Contributions-to-the-natural-history-and-physiology-of-the-human-intellect
 gutenberg_issued: '2010-03-23'
 gutenberg_type: Text
 identifiers:
